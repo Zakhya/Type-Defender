@@ -1,0 +1,14 @@
+.sentence-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 800px;
+}
+.letter {
+  margin-inline: 3px;
+}
+.guessedLetter {
+  color: greenyellow;
+
+  margin-inline: 3px;
+}

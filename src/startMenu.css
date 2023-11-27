@@ -1,0 +1,12 @@
+.buttonContainer {
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.contentContainer {
+  min-height: 550px;
+  min-width: 400px;
+  background-color: #030303;
+}
